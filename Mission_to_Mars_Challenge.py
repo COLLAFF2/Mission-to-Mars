@@ -21,6 +21,7 @@ browser = Browser('chrome', **executable_path, headless=False)
 
 # ### Visit the NASA Mars News Site
 
+
 # In[3]:
 
 
